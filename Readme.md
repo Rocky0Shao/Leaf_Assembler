@@ -20,11 +20,8 @@ Follow the steps below for your operating system to set up the environment and r
 ## 🪟 Windows Setup
 
 1. Open **Command Prompt** or **PowerShell** and navigate to the project folder.
-2. Install `virtualenv`:
 
-   ```bash
-   pip install virtualenv
-   ```
+2. Install `virtualenv`:
 
    ```bash
    pip install virtualenv
